@@ -174,13 +174,12 @@ Task:
 
 # 👨‍💻 Author
 
-### Akarsh Kumar
+### Shubh Shrivastava
 
 B.Tech Student | AI & Data Science Enthusiast
 
-GitHub: https://github.com/AkarshKumar1
+GitHub: https://github.com/Shubhshrivastava89/
 
-LinkedIn: https://www.linkedin.com/in/akarshkumar06/
 
 ---
 
